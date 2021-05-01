@@ -1,0 +1,200 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+@font-face {
+	font-family:'amatic-sc';
+    src: url("IRAN Sans Regular (mmrostami.blog.ir).ttf")
+}
+* {
+    background-color: #10163A;
+    text-decoration: none;
+}
+.imoji {
+    position: relative;
+    padding: 8px 16px;
+    margin: 20px 20px 30px 20px;
+    z-index: 1;
+}
+#imoji {
+    font-size: 4em;
+}
+.info {
+    position: relative;
+    width: 90%;
+    height: 600px;
+    border-radius: 20px;
+    background-color: #262C49;
+    margin: 50px;
+}
+#txt {
+    font-size: 4em;
+    font-family: 'amatic-sc';
+    background-color: #262C49;
+    color: #fff;
+    direction: rtl;
+    padding: 50px;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+.fi-rr-thumbs-up {
+    font-size: 4em;
+    font-family: 'amatic-sc';
+    background-color: #262C49;
+    color: #fff;
+    direction: rtl;
+    padding: 50px;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+.fi-rr-thumbs-down {
+    font-size: 4em;
+    font-family: 'amatic-sc';
+    background-color: #262C49;
+    color: #fff;
+    direction: rtl;
+    padding: 50px;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+.fi-rr-thumbs-down:hover {
+    background-color:#10163A;
+}
+.fi-rr-thumbs-up:hover {
+    background-color:#10163A;
+}
+#data {
+    font-size: 3em;
+    font-family: 'amatic-sc';
+    background-color: #262C49;
+    color: #fff;
+    direction: rtl;
+    padding: 50px;
+    position: absolute;
+    right: 100px;
+    top: 350px
+}
+#call {
+    font-size: 2.5em;
+    font-family: 'amatic-sc';
+    background-color: #262C49;
+    color: #fff;
+    direction: rtl;
+    padding: 40px 30px;
+    border-radius: 50px;
+    width: 30%;
+    position: absolute;
+    left: 300px;
+    top: 1200px;
+    display: none;
+}
+.menu {
+    background-color: #262C49;
+    height: 170px;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    border-radius: 50px;
+    padding: 8px 16px;
+    margin: 20px 20px 30px 20px;
+    z-index: 1;
+}
+.fi-rr-dollar {
+    background-color: #262C49;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-dollar:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 25px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-bell {
+    background-color: #262C49;
+    position: absolute;
+    left: 180px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-bell:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 180px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-shopping-bag {
+    background-color: #262C49;
+    position: absolute;
+    left: 340px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-shopping-bag:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 340px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-ticket {
+    background-color: #262C49;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-ticket:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 500px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-search {
+    background-color: #262C49;
+    position: absolute;
+    left: 640px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-search:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 640px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-share {
+    background-color: #262C49;
+    position: absolute;
+    left: 770px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-share:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 770px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}

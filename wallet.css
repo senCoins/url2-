@@ -1,0 +1,280 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+* {
+    background-color: #10163A;
+    text-decoration: none;
+}
+@font-face {
+	font-family:'amatic-sc';
+    src: url("IRAN Sans Regular (mmrostami.blog.ir).ttf")
+}
+.menu {
+    background-color: #262C49;
+    height: 170px;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    border-radius: 50px;
+    padding: 8px 16px;
+    margin: 20px 20px 30px 20px;
+    z-index: 1;
+}
+.fi-rr-dollar {
+    background-color: #262C49;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-dollar:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 25px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-bell {
+    background-color: #262C49;
+    position: absolute;
+    left: 180px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-bell:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 180px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-shopping-bag {
+    background-color: #262C49;
+    position: absolute;
+    left: 340px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-shopping-bag:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 340px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-ticket {
+    background-color: #262C49;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-ticket:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 500px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-search {
+    background-color: #262C49;
+    position: absolute;
+    left: 640px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-search:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 640px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.fi-rr-share {
+    background-color: #262C49;
+    position: absolute;
+    left: 770px;
+    top: 50px;
+    color: #fff;
+    font-size: 5em;
+}
+.fi-rr-share:hover {
+    position: absolute;
+    background-color: #10163A;
+    top: 35px;
+    left: 770px;
+    padding: 2px 16px; 
+    padding-top: 20px;
+    border-radius: 100px;  
+}
+.imoji {
+    position: relative;
+    padding: 8px 16px;
+    margin: 20px 20px 30px 20px;
+    z-index: 1;
+}
+#imoji {
+    font-size: 4em;
+}
+.user {
+    width: 80%;
+    margin: 97px;
+    margin-top: 300px;
+    height: 700px;
+    background-color: #262C49;
+    border-radius: 20px;
+    position: relative;
+}
+.fi-rr-user {
+    background-color: #262C49;
+    position: absolute;
+    left: 320px;
+    top: 100px;
+    color: #fff;
+    font-size: 10em;
+}
+#userid {
+    width: 78%;
+    height: 100px;
+    position: absolute;
+    border-radius: 20px;
+    top: 370px;
+    left: 50px;
+    border: none;
+    font-size: 3em;
+    padding: 8px 30px;
+    color: #fff;
+}
+#ok {
+    font-size: 'amatic-sc';
+    font-size: 3em;
+    padding: 16px 50px;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 550px;
+    left: 300px;
+}
+.imoji1 {
+    position: relative;
+    padding: 8px 16px;
+    margin: 20px 20px 30px 20px;
+    top: 650px
+}
+#imoji1 {
+    font-size: 4em;
+}
+.info-wallet {
+    width: 93%;
+    margin: 30px;
+    height: 200px;
+    background-color: #262C49;
+    border-radius: 20px;
+    position: relative;
+    top:650px
+}
+#info {
+    font-family: amatic-sc;
+    color: #fff;
+    background-color: #262C49;
+    font-size: 4em;
+    position: absolute;
+    direction: rtl;
+    left: 30px;
+    top: 10px;
+    display: inline-block;
+}
+#sencoin {
+    font-family: amatic-sc;
+    color: #fff;
+    background-color: #262C49;
+    font-size: 2em;
+    position: absolute;
+    direction: rtl;
+    left: 140px;
+}
+.info-user {
+    width: 90%;
+    margin: 50px;
+    top: 700px;
+    height: 600px;
+    background-color: #262C49;
+    border-radius: 20px;
+    position: relative;
+}
+#user1 {
+    width: 180px;
+    position: absolute;
+    border-radius: 100px;
+    margin: 100px 100px;
+}
+#name1 {
+    color: #fff;
+    position: absolute;
+    font-size: 4em;
+    border-radius: 100px;
+    margin: 110px 400px;
+    background-color: #262C49;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#tik {
+    width: 50px;
+    position: absolute;
+    border-radius: 100px;
+    margin: 125px 620px;
+    background-color: #262C49;
+    display: none;
+}
+#bio1 {
+    color: #fff;
+    position: absolute;
+    font-size: 2em;
+    border-radius: 100px;
+    margin: 190px 400px;
+    background-color: #262C49;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fi-rr-money {
+    color: #fff;
+    position: absolute;
+    font-size: 5em;
+    border-radius: 100px;
+    margin: 400px 100px;
+    background-color: #262C49;
+}
+#senC {
+    color: #fff;
+    position: absolute;
+    font-size: 5em;
+    border-radius: 100px;
+    margin: 380px 230px;
+    background-color: #262C49;
+	font-family:'amatic-sc';
+}
+#senin {
+    color: #fff;
+    position: absolute;
+    font-size: 2em;
+    border-radius: 100px;
+    margin: 380px 500px;
+    background-color: #262C49;
+	font-family:'amatic-sc';
+}
+#lo {
+    position: absolute;
+    top: 3700px
+}
