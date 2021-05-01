@@ -49,6 +49,13 @@ function showInfo() {
         axs.src = 'https://s2.uupload.ir/files/pp_fsh5.jpeg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
+    } else if (info == "Masi_art") {
+        srnCoin.innerHTML = "100"
+        title.innerHTML = inptxt.value
+        bio.innerHTML = "none"
+        axs.src = 'user.jpg'
+        axs.style = 'width: 150px'
+        tik.style = 'display: none'
     } else {
         alert("چنین نام کاربری وجود ندارد جهت ساخت نام کاربری تیکت ارسال کنید!")
     }
