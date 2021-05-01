@@ -42,6 +42,13 @@ function showInfo() {
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
+    } else if (info == "paryiayari") {
+        srnCoin.innerHTML = "600"
+        title.innerHTML = inptxt.value
+        bio.innerHTML = "none"
+        axs.src = 'https://s2.uupload.ir/files/pp_fsh5.jpeg'
+        axs.style = 'width: 150px'
+        tik.style = 'display: none'
     } else {
         alert("چنین نام کاربری وجود ندارد جهت ساخت نام کاربری تیکت ارسال کنید!")
     }
