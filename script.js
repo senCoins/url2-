@@ -50,7 +50,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "Masi_art") {
-        srnCoin.innerHTML = "41
+        srnCoin.innerHTML = "41"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
