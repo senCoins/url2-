@@ -5,7 +5,7 @@
 }
 @font-face {
 	font-family:'amatic-sc';
-    src: url("IRAN Sans Regular (mmrostami.blog.ir).ttf")
+        src: url(font.ttf)
 }
 .menu {
     background-color: #262C49;
