@@ -36,7 +36,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "kaneki") {
-        srnCoin.innerHTML = "23"
+        srnCoin.innerHTML = "250"
         title.innerHTML = inptxt.value
         bio.innerHTML = "youtuber"
         axs.src = 'user.jpg'
