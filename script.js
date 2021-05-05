@@ -36,7 +36,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "kaneki") {
-        srnCoin.innerHTML = "250"
+        srnCoin.innerHTML = "70"
         title.innerHTML = inptxt.value
         bio.innerHTML = "youtuber"
         axs.src = 'user.jpg'
@@ -51,6 +51,13 @@ function showInfo() {
         tik.style = 'display: none'
     } else if (info == "Masi_art") {
         srnCoin.innerHTML = "43"
+        title.innerHTML = inptxt.value
+        bio.innerHTML = "none"
+        axs.src = 'user.jpg'
+        axs.style = 'width: 150px'
+        tik.style = 'display: none'
+    } else if (info == "Lilsayed") {
+        srnCoin.innerHTML = "30"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
