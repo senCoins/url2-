@@ -22,42 +22,42 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: block'
     } else if (info == "lolo") {
-        srnCoin.innerHTML = "2241"
+        srnCoin.innerHTML = "2242"
         title.innerHTML = inptxt.value
         bio.innerHTML = "programmer"
         axs.src = 'https://s2.uupload.ir/files/kon_tkl4.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "siavashz83") {
-        srnCoin.innerHTML = "13"
+        srnCoin.innerHTML = "14"
         title.innerHTML = inptxt.value
         bio.innerHTML = "Apparatus"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "kaneki") {
-        srnCoin.innerHTML = "60"
+        srnCoin.innerHTML = "351"
         title.innerHTML = inptxt.value
         bio.innerHTML = "youtuber"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "paryiayari") {
-        srnCoin.innerHTML = "603"
+        srnCoin.innerHTML = "604"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'https://s2.uupload.ir/files/pp_fsh5.jpeg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "Masi_art") {
-        srnCoin.innerHTML = "43"
+        srnCoin.innerHTML = "44"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "Lilsayed") {
-        srnCoin.innerHTML = "30"
+        srnCoin.innerHTML = "31"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
