@@ -15,7 +15,7 @@ function showInfo() {
     let info = inptxt.value;
 
     if (info == "r0zsya") {
-        srnCoin.innerHTML = "10003"
+        srnCoin.innerHTML = "10005"
         title.innerHTML = inptxt.value
         bio.innerHTML = "programmer"
         axs.src = 'https://s2.uupload.ir/files/whatsapp_image_2021-04-30_at_13.29.49_qhqb.jpeg'
