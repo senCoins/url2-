@@ -64,7 +64,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     }  else if (info == "Mehrab_Morfin") {
-        srnCoin.innerHTML = "390"
+        srnCoin.innerHTML = "410"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'https://s4.uupload.ir/files/1943_q2ta.jpg'
