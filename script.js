@@ -63,6 +63,13 @@ function showInfo() {
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
+    }  else if (info == "Mehrab_Morfin") {
+        srnCoin.innerHTML = "390"
+        title.innerHTML = inptxt.value
+        bio.innerHTML = "none"
+        axs.src = 'https://s4.uupload.ir/files/1943_q2ta.jpg'
+        axs.style = 'width: 150px'
+        tik.style = 'display: none'
     } else {
         alert("چنین نام کاربری وجود ندارد جهت ساخت نام کاربری تیکت ارسال کنید!")
     }
