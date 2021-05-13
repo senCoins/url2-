@@ -71,7 +71,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "tanyaalmasy") {
-        srnCoin.innerHTML = "420"
+        srnCoin.innerHTML = "0"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
