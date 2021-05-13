@@ -43,7 +43,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "paryiayari") {
-        srnCoin.innerHTML = "604"
+        srnCoin.innerHTML = "540"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'https://s2.uupload.ir/files/pp_fsh5.jpeg'
