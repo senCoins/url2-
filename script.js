@@ -70,15 +70,14 @@ function showInfo() {
         axs.src = 'https://s4.uupload.ir/files/1943_q2ta.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
-    }  else if (info == "tanyaalmasy")
+    } else if (info == "tanyaalmasy") {
         srnCoin.innerHTML = "20"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
-    }
-    else {
+    } else {
         alert("چنین نام کاربری وجود ندارد جهت ساخت نام کاربری تیکت ارسال کنید!")
     }
 }
