@@ -22,7 +22,7 @@ function showInfo() {
         axs.style = 'width: 150px'
         tik.style = 'display: block'
     } else if (info == "lolo") {
-        srnCoin.innerHTML = "1544" //2242
+        srnCoin.innerHTML = "1044" //2242
         title.innerHTML = inptxt.value
         bio.innerHTML = "programmer"
         axs.src = 'https://s2.uupload.ir/files/kon_tkl4.jpg'
