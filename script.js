@@ -15,63 +15,63 @@ function showInfo() {
     let info = inptxt.value;
 
     if (info == "r0zsya") {
-        srnCoin.innerHTML = "10005"
+        srnCoin.innerHTML = "10007"
         title.innerHTML = inptxt.value
         bio.innerHTML = "programmer"
         axs.src = 'https://s2.uupload.ir/files/whatsapp_image_2021-04-30_at_13.29.49_qhqb.jpeg'
         axs.style = 'width: 150px'
         tik.style = 'display: block'
     } else if (info == "lolo") {
-        srnCoin.innerHTML = "1542" //2242
+        srnCoin.innerHTML = "1544" //2242
         title.innerHTML = inptxt.value
         bio.innerHTML = "programmer"
         axs.src = 'https://s2.uupload.ir/files/kon_tkl4.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "siavashz83") {
-        srnCoin.innerHTML = "14"
+        srnCoin.innerHTML = "16"
         title.innerHTML = inptxt.value
         bio.innerHTML = "Apparatus"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "kaneki") {
-        srnCoin.innerHTML = "11" 
+        srnCoin.innerHTML = "13" 
         title.innerHTML = inptxt.value
         bio.innerHTML = "youtuber"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "paryiayari") {
-        srnCoin.innerHTML = "540"
+        srnCoin.innerHTML = "542"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'https://s2.uupload.ir/files/pp_fsh5.jpeg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "Masi_art") {
-        srnCoin.innerHTML = "44"
+        srnCoin.innerHTML = "46"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "Lilsayed") {
-        srnCoin.innerHTML = "31"
+        srnCoin.innerHTML = "32"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "Mehrab_Morfin") {
-        srnCoin.innerHTML = "410"
+        srnCoin.innerHTML = "412"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'https://s4.uupload.ir/files/1943_q2ta.jpg'
         axs.style = 'width: 150px'
         tik.style = 'display: none'
     } else if (info == "tanyaalmasy") {
-        srnCoin.innerHTML = "0"
+        srnCoin.innerHTML = "2"
         title.innerHTML = inptxt.value
         bio.innerHTML = "none"
         axs.src = 'user.jpg'
